@@ -7,10 +7,8 @@ An AI chatbot based on RASA framework to
 ### Setup
 #### On Windows
 * Download nodejs from [here](https://nodejs.org/en/download/)  
-* Install the following dependenciees
-
-<code> npm install [module_name] </code> 
-<ul><ul>  express  </li>
+* Install the following dependencies <code> npm install [module_name] </code> 
+<ul><ul><li>  express  </li>
     <li>  mongoose  </li>
     <li>  jsonwebtoken  </li>
     <li>  bcrypt  </li>
