@@ -33,6 +33,8 @@ remove <em>line 226 : "requireAuth," </em> from line 225 of src/app.js
     <code> rasa run -m models --enable-api --cors "*" </code>
 * Open the localhost http://127.0.0.1:5000/ on any browser
 
+![image](/imgs/imagechat.png)
+
 ## Features
 * The users could book appointments from registered health professionals.
 * Recommend medicine through the chatbot.
