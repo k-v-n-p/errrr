@@ -1,8 +1,7 @@
 # MedicBot
-An AI chatbot based on RASA framework to provide healthcare assistance. 
+>"An AI chatbot based on RASA framework to provide healthcare assistance. "
 
 ![image](/imgs/imagechat.png)
-![img](http://wilsonmar.github.io/favicon.png/)
 ### Purpose
 > "The ultimate aim of the medicbot chatbot is to significantly simulate exactly the way a human doctor would monitor a person’s health status and advise any medications or practices."
 
@@ -42,6 +41,6 @@ remove <em>line 226 : "requireAuth," </em> from line 225 of src/app.js
 
 <!--- * Holds no record of the medical history for privacy purposes. -->
 
-## Contact
+### Contact
 [justprateek](https://github.com/justprateek) <br>
 [k-v-n-p](https://github.com/k-v-n-p)
