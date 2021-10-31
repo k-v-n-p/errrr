@@ -10,7 +10,12 @@ An AI chatbot based on RASA framework to
 * Install the following dependenciees
 
 <code> npm install [module_name] </code> 
-> express
+<ul><li>  express  </li>
+    <li>  express  </li>
+    <li>  express  </li>
+    <li>  express  </li>
+</ul>
+
 > mongoose
 > jsonwebtoken
 > bcrypt
