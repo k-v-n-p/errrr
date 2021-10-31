@@ -1,7 +1,7 @@
 # MedicBot
 An AI chatbot based on RASA framework to provide healthcare assistance. 
 
-![image](./imgs/imagechat (1).png)
+![image](/imgs/imagechat.png)
 ![img](http://wilsonmar.github.io/favicon.png/)
 ### Purpose
 > "The ultimate aim of the medicbot chatbot is to significantly simulate exactly the way a human doctor would monitor a person’s health status and advise any medications or practices."
