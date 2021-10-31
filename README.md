@@ -1,17 +1,18 @@
 # MedicBot
-An AI chatbot based on RASA framework to ... 
+An AI chatbot based on RASA framework to provide healthcare assistance. 
 
-## why
-> "The ultimate aim of the medicbot chatbot is to significantly simulate the way exactly a human doctor would monitor a person’s health status and advise any medications or practices."
+## Purpose
+> "The ultimate aim of the medicbot chatbot is to significantly simulate exactly the way a human doctor would monitor a person’s health status and advise any medications or practices."
 
 ## Setup
 
 * Download nodejs 
     <ul><li> On windows from [here](https://nodejs.org/en/download/) </li></ul>
-    <ul><li> On linux using the command <code> sudo apt install nodejs  </code> 
+    <li> On linux using the command <code> sudo apt install nodejs  </code> </li>
 
 * Install the following dependencies with the command. <code> npm install [module_name] </code> 
-<ul><ul><li>  express  </li>
+<ul><ul>
+    <li>  express  </li>
     <li>  mongoose  </li>
     <li>  jsonwebtoken  </li>
     <li>  bcrypt  </li>
