@@ -7,8 +7,8 @@ An AI chatbot based on RASA framework to provide healthcare assistance.
 ## Setup
 
 * Download nodejs 
-    <ul><li> On windows from [here](https://nodejs.org/en/download/) </li></ul>
-    <li> On linux using the command <code> sudo apt install nodejs  </code> </li>
+    * On windows from [here](https://nodejs.org/en/download/) 
+    * On linux using the command <code> sudo apt install nodejs  </code> 
 
 * Install the following dependencies with the command. <code> npm install [module_name] </code> 
 <ul><ul>
@@ -23,14 +23,14 @@ An AI chatbot based on RASA framework to provide healthcare assistance.
 * (optional) Add the database URI and credentials in the .env file
 
 ## Usage
+* Download and extract the zip file 
 * If the optional step is omitted in the setup section 
 remove <em>line 226 : "requireAuth," </em> from line 225 of src/app.js
-* Download and extract the zip file contents.
 * Run the application: execute node src/app.js
 * Train and run our RASA model with the dataset
     <code> rasa train  </code>
     <code> rasa run -m models --enable-api --cors "*" </code>
-* Open the localhost http://127.0.0.1:5000/ on any browser.
+* Open the localhost http://127.0.0.1:5000/ on any browser
 
 ## Features
 * The users could book appointments from registered health professionals.
@@ -41,5 +41,5 @@ remove <em>line 226 : "requireAuth," </em> from line 225 of src/app.js
 <!--- * Holds no record of the medical history for privacy purposes. -->
 
 ## Contact
-[justprateek](justwriteprateek@gmail.com)
+[justprateek](justwriteprateek@gmail.com) <br>
 [k-v-n-p](kvnp.zyx@gmail.com)
